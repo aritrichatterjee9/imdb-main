@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+deployed in https://imdb-mainclone.vercel.app/ 
+
+![image](https://github.com/aritrichatterjee9/imdb-main/assets/73156770/5743737d-0d63-42eb-9bee-47b211a231f3)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
